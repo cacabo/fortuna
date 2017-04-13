@@ -1,0 +1,22 @@
+.gray {
+  background: whitesmoke;
+  height: 2in;
+  width: auto;
+}
+
+.pad-top {
+  padding-top: 5vh;
+}
+
+.pad-left {
+  padding-left: 5vw;
+}
+
+.pad-all {
+  padding: 5vh !important;
+}
+
+.marg-top-bot {
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+}
